@@ -113,9 +113,7 @@ European CRR approaches BS like \(O(1/n)\); we do not pretend \(10^{-12}\) agree
 - MC: fixed seed, absolute error vs BS falls from 10k → 100k paths; stderr shrinks ~\(1/\sqrt{N}\).
 - Invalid inputs throw / CLI errors clearly; American + MC rejected.
 
-## What I would do next
-
-Future work only — not stubbed here:
+## Future Steps
 
 - Implied volatility (Newton / Brent on the BS price).
 - Antithetic variates and control variates for MC.
