@@ -1,6 +1,6 @@
 # option-pricer
 
-A small, honest **C++17** library for pricing vanilla equity options. Written as a learning / recruiting artefact for a Warwick Data Science portfolio — not a trading system.
+A **C++17** library for pricing vanilla equity options.
 
 ## What it is
 
