@@ -14,9 +14,9 @@ Contract parameters: spot \(S\), strike \(K\), rate \(r\), continuous dividend y
 
 ## What it is not
 
-- Not QuantLib, not a wrapper, not calibrated to listed options.
+- Not a QuantLib wrapper, and not fitted to market option quotes.
 - No barriers, Asians, local vol, rate curves, live market data, GPU, SIMD, GUI, or neural nets.
-- Not production trading software and not HFT-related.
+- A study / portfolio artefact only — not a live pricing or execution stack.
 
 ## Formulae (brief)
 
